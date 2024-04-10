@@ -1,0 +1,8 @@
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\bin\Debug\C_chapter.exe.config
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\bin\Debug\C_chapter.exe
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\bin\Debug\C_chapter.pdb
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\obj\Debug\C_chapter.csproj.AssemblyReference.cache
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\obj\Debug\C_chapter.csproj.SuggestedBindingRedirects.cache
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\obj\Debug\C_chapter.csproj.CoreCompileInputs.cache
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\obj\Debug\C_chapter.exe
+D:\isrpo_spring\lab_3\C_chapter\C_chapter\obj\Debug\C_chapter.pdb
